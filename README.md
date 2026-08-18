@@ -18,4 +18,4 @@ A project consisting of a backend driver simulator and a frontend UI.
 1. Navigate to `frontend-ui/`.
 2. Run `npm install`.
 3. Start the dev server: `npm run dev`.
-Ride
+
